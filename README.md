@@ -1,14 +1,4 @@
-## Hi there 👋
-
-<!--
-**amina134/amina134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...# 💫 About Me:
+# 💫 About Me:
 Hi, I’m Amina Kouni — an undergraduate student in Business Information Systems who loves turning ideas into real, working web apps. I build full-stack projects with MERN, enjoy solving tricky problems, and think a lot about how tech and philosophy shape our world. Curious mind, creative spirit, always learning.
 
 
@@ -27,9 +17,3 @@ Hi, I’m Amina Kouni — an undergraduate student in Business Information Syste
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
