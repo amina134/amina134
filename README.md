@@ -2,6 +2,11 @@
 Hi, I’m Amina Kouni — an undergraduate student in Business Information Systems who loves turning ideas into real, working web apps. I build full-stack projects with MERN, enjoy solving tricky problems, and think a lot about how tech and philosophy shape our world. Curious mind, creative spirit, always learning.
 
 
+## Projects
+
+👨‍💻 All of my projects can be found on my [GitHub profile](https://github.com/amina134?tab=repositories).
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/amina.kouni.5203) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amina-kouni-86b1ba285/) 
 # 💻 Tech Stack:
